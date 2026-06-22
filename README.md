@@ -31,10 +31,12 @@ The system suggests the **Top 5 similar movies** based on a given movie title.
  ├── tmdb_5000_movies.csv 
  ├── requirements.txt 
  └── README.md
+
 💡 Future Improvements
 -Add movie posters using TMDb API
 -Build web app using Flask or Streamlit
 -Add search bar UI
 -Deploy project online (Render / Streamlit Cloud)
+
 👨‍💻 Author
 Developed as part of the CodeAlpha Internship to demonstrate the implementation of a Content-Based Movie Recommendation System using Machine Learning techniques
